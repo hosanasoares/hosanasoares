@@ -24,7 +24,7 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 --------
 
 ## 🧪 Atividade de Web:
-- ⚙️ Web: [Exericícios Web]((https://github.com/hosanasoares/Atividades-WEB-I---HTML))
+- ⚙️ Web 1: [Exericícios Web 1]((https://github.com/hosanasoares/Atividades-WEB-I---HTML))
 
 ---------
 
