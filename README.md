@@ -1,5 +1,5 @@
 ## Olá! Sou Hosana Soares🌠
-Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Nesse GitHub há exercícios e desenvolvimento de programas envolvendo linguagens de programação. 
+Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Nesse GitHub há desenvolvimento de programas envolvendo linguagens de programação. 
 
 -------
 ## 🌟 Preferências:
@@ -24,7 +24,7 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 --------
 
 ## 🧪 Atividade de Web:
-- ⚙️ POO: [Exericícios POO](https://github.com/hosanasoaress/CTI-P4-POO-20242-LISTA01)
+- ⚙️ Web: [Exericícios Web]((https://github.com/hosanasoares/Atividades-WEB-I---HTML))
 
 ---------
 
