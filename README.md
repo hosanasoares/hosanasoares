@@ -39,12 +39,12 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
  
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanasoaress&layout=compact&theme=cobalt" alt="Linguagens mais usadas"/></td>
-    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=hosanasoaress&theme=radical&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosanasoares&layout=compact&theme=cobalt" alt="Linguagens mais usadas"/></td>
+    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=hosanasoares&theme=radical&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=hosanasoaress&show_icons=true&theme=cobalt" alt="Estatísticas do GitHub" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hosanasoaress&theme=cobalt" alt="Contribuições recentes"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=hosanasoares&show_icons=true&theme=cobalt" alt="Estatísticas do GitHub" /></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hosanasoares&theme=cobalt" alt="Contribuições recentes"/></td>
   </tr>
 </table>
 
@@ -62,9 +62,9 @@ Sou estudante do IFCE campus Maranguape, cursando o Técnico em Informática. Ne
 <hr>
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosanasoaress/hosanasoaress/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hosanasoaress/hosanasoaress/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hosanasoaress/hosanasoaress/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hosanasoaress/hosanasoares/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hosanasoaress/hosanasoares/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hosanasoaress/hosanasoares/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
